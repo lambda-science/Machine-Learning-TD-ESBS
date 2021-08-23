@@ -17,7 +17,7 @@ In any Python project, you WILL be using Anaconda environnement. It's is crucial
 If not already done, install Anaconda from: [Anaconda Download Page](https://www.anaconda.com/products/individual#Downloads)  
 After cloning the Git repository, you will find a file named `environment.yml` containing all informations for the Anaconda envrionnement. You can now create the environnement using:  
 `conda env create -f environment.yml`
-Note: If an error occurs such as `conda is not a valid command` you might need to use anaconda prompt for the command.  
+Note: If an error occurs such as `conda is not a valid command` you might need to use anaconda prompt for the command. Also environnement are heavy (1.5-2gb here) and can take some time to install.  
 You can now activate your environnement in your current terminal using:  
 `conda activate TD_ML`  
 

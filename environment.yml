@@ -9,4 +9,5 @@ dependencies:
   - numpy
   - matplotlib
   - jupyter
+  - optuna
 prefix: /home/meyer/anaconda3/envs/TD_ML

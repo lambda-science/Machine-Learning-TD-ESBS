@@ -25,9 +25,10 @@ You can now activate your environnement in your current terminal using:
 Jupyter Notebook is the main tool of any data-scientist. It allows you to write and run python code dynamically without reloading all the code, data and variables everytime.   
 It is structured as blocks of code that you can run and edit independantly. In this TD, our main worksheet will be the `TD_Machine_Learning.ipynb` Jupyter Notebook.  
 You have several option to open Jupyter Notebooks.  
-**The Easy way:** Activate you conda env if not already done. Then run:   
+* **The Easy way:** Activate you conda env if not already done. Then run:   
 `jupyter-notebook`  
 You browser should automatically open a windows on Jupyter or you can simply click the link. Please check if you can open the ipynb file and the folder.  
 Note: Don't close the terminal prompt as it would shutdown the Jupyter Server.  
-
-### **Congratulations** you should now be ready to code for the TD.
+* **The 2nd Easy Way:** Use [VSCode](https://code.visualstudio.com/)  
+Install the python extension. VSCode is able to natively open Jupyter Notebook with a great interface and without a server. Just select the right python environnement and you're ready to go !  
+### **Congratulations** you should now be ready to code for the TD. Simply open the .ipynb file using jupyter-notebook or VSCode !

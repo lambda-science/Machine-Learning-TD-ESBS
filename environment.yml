@@ -2,7 +2,7 @@ name: TD_ML
 channels:
   - defaults
 dependencies:
-  - python=3.9.5
+  - python=3.8.10
   - ipykernel
   - pandas
   - scikit-learn

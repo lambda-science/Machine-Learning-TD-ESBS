@@ -15,6 +15,7 @@ You will NEED a Google Account for this to work.
 ![Upload File](https://i.imgur.com/2WlyUku.png) 
 5. You should be able to run notebook and start writing code ! Create a cell and run `print("Hello World")` to check if everything is good !
 
+/!\ Warnings: I briefly test this and seem's to work fine. However if there are issues with python version, libraries ect... I won't be able to provide extensive support
 ### **Congratulations** you should now be ready to code for the TD !  
 
 .  

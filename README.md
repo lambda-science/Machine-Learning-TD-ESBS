@@ -26,7 +26,7 @@ It makes everything run on your computer instead of relying on Google's one. I w
 To Install Git: [Git](https://git-scm.com/downloads) (should already be installed on all Linux)
 Git is command-line software used in informatics to do code versioning (tracking modifications and updates). In any informatics project you WILL be using it. In this TD we will only use Git to download the TD Code from a GitHub Repository using the command in a terminal:   
 `git clone https://github.com/lambda-science/Machine-Learning-TD-ESBS.git`.  
-For people that do not want to use Git and could not install it the code is also availiable as a .zip file [HERE](https://www.lbgi.fr/~meyer/TD_ML.zip)  
+For people that do not want to use Git and could not install it the code is also availiable as a .zip file [HERE](https://github.com/lambda-science/Machine-Learning-TD-ESBS/archive/refs/heads/master.zip)  
 
 
 

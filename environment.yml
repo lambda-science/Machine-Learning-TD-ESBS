@@ -1,6 +1,7 @@
 name: TD_ML
 channels:
   - defaults
+  - conda-forge
 dependencies:
   - python=3.8.10
   - ipykernel

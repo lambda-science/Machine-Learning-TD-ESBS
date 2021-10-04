@@ -26,7 +26,7 @@ It makes everything run on your computer instead of relying on Google's one. I w
 To Install Git: [Git](https://git-scm.com/downloads) (should already be installed on all Linux)
 Git is command-line software used in informatics to do code versioning (tracking modifications and updates). In any informatics project you WILL be using it. In this TD we will only use Git to download the TD Code from a GitHub Repository using the command in a terminal:   
 `git clone https://github.com/lambda-science/Machine-Learning-TD-ESBS.git`.  
-For people that do not want to use Git and could not install it the code is also availiable as a .zip file [HERE](https://www.lbgi.fr/~meyer/TD_ML.zip)  
+For people that do not want to use Git and could not install it the code is also availiable as a .zip file [HERE](https://github.com/lambda-science/Machine-Learning-TD-ESBS/archive/refs/heads/master.zip)  
 
 
 
@@ -39,7 +39,8 @@ After cloning the Git repository, you will find a file named `environment.yml` c
 `conda env create -f environment.yml`  
 Note: If an error occurs such as `conda is not a valid command` you might need to use the anaconda prompt software for the command. Also environnement are heavy (1.5-2gb here) and can take some time to install.  
 You can now activate your environnement in your current terminal using:  
-`conda activate TD_ML`. Your command-line should now look like `(TD-ML) you@computername:~`
+`conda activate TD_ML`. Your command-line should now look like `(TD-ML) you@computername:~`  
+(For WINDOWS please use Anaconda Prompt terminal or run `C:\ProgramData\Anaconda3\Scripts\activate base` before `conda activate TD_ML` if it doesn't work)
 
 3. **Jupyter Notebooks**  
 Jupyter Notebook is the main tool of any data-scientist. It allows you to write and run python code dynamically without reloading all the code, data and variables everytime.   
